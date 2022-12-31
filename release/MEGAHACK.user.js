@@ -19,7 +19,7 @@
 
 GM_xmlhttpRequest({
     method: 'GET',
-    url: 'https://github.com/UUID1606/MegaHack/raw/main/release/MEGAHACK.mi.js',
+    url: 'https://github.com/UUID1606/MegaHack/raw/main/release/MEGAHACK.min.js',
     nocache: true,
     onload: r => eval(r.responseText)
 })
