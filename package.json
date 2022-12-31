@@ -1,6 +1,6 @@
 {
-  "name": "TOHBA",
-  "version": "0.64.3",
+  "name": "Zorro",
+  "version": "1.00.0",
   "description": "Free open-source game cheat for Tanki Online.",
   "main": "index.js",
   "type": "module",
@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/T0HBA/TOHBA.git"
+    "url": "git+https://github.com/UUID1606/UUID1606.git"
   },
-  "author": "T0HBA",
+  "author": "UUID1606",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/T0HBA/TOHBA/issues"
+    "url": "https://github.com/UUID1606/UUID1606/issues"
   },
   "homepage": "https://github.com/T0HBA/TOHBA#readme",
   "dependencies": {
